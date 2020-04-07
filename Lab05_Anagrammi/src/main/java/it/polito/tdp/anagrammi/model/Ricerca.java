@@ -6,6 +6,10 @@ import java.util.List;
 import java.util.Set;
 
 public class Ricerca {
+	
+	//QUESTO FA UN PO' SCHIFO MA LO AVEVO FATTO PRIMA CHE IL PROF FACESSE LA VIDEOLEZIONE
+	//E' CONTORTA E BRUTTA, MA ALMENO CI AVEVO PROVATO.
+	//cOMUNQUE GUARDA IL PROGETTO ANAGRAMMA AL SINGOLARE, QUELLO E' FATTO BENE
 
 	/*private int N;
 	private List<Parola> soluzione;
